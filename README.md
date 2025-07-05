@@ -4,6 +4,9 @@ Welcome to the **Hair Studio** project – a modern, responsive website template
 
 ---
 
+## 🌐 Live Demo
+https://hareni31.github.io/barber_studio/
+---
 
 
 ## 📂 Project Structure
